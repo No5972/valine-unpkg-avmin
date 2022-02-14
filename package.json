@@ -1,9 +1,9 @@
 {
-  "name": "valine",
-  "version": "1.4.16",
-  "description": "A simple comment system based on Leancloud.",
+  "name": "valine-unpkg-avmin",
+  "version": "0.0.1",
+  "description": "A simple comment system based on Leancloud, which the Leancloud component CDN is replaced to UNPKG.",
   "main": "dist/Valine.min.js",
-  "author": "xCss <xioveliu@gmail.com> (https://github.com/xCss)",
+  "author": "No.5972 <wujiuqier@foxmail.com> (https://github.com/No5972)",
   "scripts": {
     "test": "webpack",
     "build": "webpack",
@@ -20,7 +20,7 @@
   "license": "GPL-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xcss/Valine.git"
+    "url": "git+https://github.com/No5972/valine-unpkg-avmin.git"
   },
   "homepage": "https://github.com/xcss/Valine#readme",
   "devDependencies": {

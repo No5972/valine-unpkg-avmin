@@ -4302,7 +4302,7 @@
                     pt
                         ? n && n()
                         : e.sdkLoader(
-                              '//cdn.jsdelivr.net/npm/leancloud-storage@3/dist/av-min.js',
+                              '//unpkg.com/leancloud-storage@3.15.0/dist/av-min.js',
                               'AV',
                               function (e) {
                                   var r = 'https://',
